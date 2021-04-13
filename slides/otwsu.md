@@ -9,7 +9,7 @@
 
 ---
 
-## Open Web Docs
+## What is Open Web Docs?
 
 * People and organizations fund the Open Web Docs project, which is then able to hire full-time writers, who create and maintain open web documentation.
 * For now, but not necessarily forever, this is focused on MDN.
@@ -29,7 +29,7 @@
 ## MDN as a standard reference
 
 * 2012-2015: webplatform.org did not get traction
-* MDN became as the standard reference for the Web
+* MDN became seen as the standard reference for the Web
 * Commitment from the MDN team to be independent
 
 ---
