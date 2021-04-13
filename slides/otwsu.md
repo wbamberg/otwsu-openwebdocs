@@ -1,3 +1,7 @@
+# Open Web Docs
+
+---
+
 ## About me
 
 * Will Bamberg
@@ -18,7 +22,7 @@
 
 ## Early days of MDN
 
-* Early on, MDN, didn't differentiate much between:
+* Early on, MDN didn't differentiate much between:
     * "open web technology" (JS, CSS, HTML)
     * "Mozilla technology" (XUL, XPCOM)
 
