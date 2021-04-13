@@ -132,5 +132,6 @@
 
 ---
 
-* These slides: https://github.com/wbamberg/otwsu-openwebdocs
-* Questions?
+## Questions?
+
+https://github.com/wbamberg/otwsu-openwebdocs
